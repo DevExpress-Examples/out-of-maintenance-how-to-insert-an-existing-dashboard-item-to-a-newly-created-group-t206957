@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to insert an existing dashboard item to a newly created group
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t206957)**
+**[[Run Online]](https://codecentral.devexpress.com/t206957/)**
 <!-- run online end -->
 
 
